@@ -17,5 +17,5 @@ a. 📁 **Classifier Models** – contains all the different classifier methods 
 
 2. 🗂️ **Feature Selection** Folder – contains the different feature selection methods source code </br>
 a. Genetic Algorithm
-b. Mutual Information
-c. Combination of 4 methods (this does not have a file on its own, it can be found in **EDA+XGBoost.ipynb**)
+   b. Mutual Information
+   c. Combination of 4 methods (this does not have a file on its own, it can be found in **EDA+XGBoost.ipynb**)
