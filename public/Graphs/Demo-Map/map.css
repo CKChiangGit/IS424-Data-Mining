@@ -1,0 +1,21 @@
+.legend {
+	position:absolute;
+	left:20px;
+	top:30px;
+}
+
+.axis text {
+	font: 10px sans-serif;
+}
+
+.axis line, .axis path {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+#choropleth {
+  width: 100%; /* Set to the width of its container */
+  display: flex;
+  justify-content: center;
+}
