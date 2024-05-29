@@ -1,5 +1,7 @@
 # IS424-G2T4
 Source Code for our Group Project
+Access our Website here: 
+http://is428t1.com.s3-website-ap-southeast-1.amazonaws.com/index.html
 
 ## 🗂️ Source Code Directory Instructions
 The **Exploratory Data Analysis (EDA)** as well as the **Data Pre-processing** was done in **EDA+XGBoost.ipynb** Refer to that file for more information.
