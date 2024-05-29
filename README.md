@@ -1,6 +1,5 @@
 # IS424-G2T4
-Source Code for our Group Project
-Access our Website here: 
+Source Code for our Group Project. Access our Website here:
 http://is428t1.com.s3-website-ap-southeast-1.amazonaws.com/index.html
 
 ## 🗂️ Source Code Directory Instructions
